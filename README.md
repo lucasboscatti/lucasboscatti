@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas Boscatti</h1>
+<h1 align="center"> I'm Lucas Boscatti</h1>
 <h3 align="center">A Electrical Engineering student, passionate with Python and Data Science.</h3>
 
  <div>
