@@ -14,9 +14,7 @@
  <p align="center"> <a href="https://instagram.com/lucasboscatti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://linkedin.com/in/lucas-boscatti-8555a3196" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://kaggle.com/lucasboscatti1" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lucasboscatti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </p>
-
+  <a href = "mailto:lucasboscatti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></p>
   ![Snake animation](https://github.com/lucasboscatti/lucasboscatti/blob/output/github-contribution-grid-snake.svg)
 
 </div>
