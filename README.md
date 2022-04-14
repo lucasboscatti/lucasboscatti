@@ -12,9 +12,10 @@
   ##
 
 <div> 
+  <a href="https://linkedin.com/in/lucas-boscatti-8555a3196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@lucasboscatti" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lucasboscatti10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/lucas-boscatti-8555a3196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 
  
   ![Snake animation](https://github.com/lucasboscatti/lucasboscatti/blob/output/github-contribution-grid-snake.svg)
