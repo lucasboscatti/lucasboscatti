@@ -1,4 +1,4 @@
-## Hii, I'm Lucas Boscatti, a Data Engineer Intern and I'm about to graduate in Electrical Engineering at UFV-MG
+## Hii, I'm Lucas Boscatti, a Data Scientist
  <div align="center">
   <a href="https://github.com/lucasboscatti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasboscatti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
